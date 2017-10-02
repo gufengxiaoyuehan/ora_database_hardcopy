@@ -14,6 +14,7 @@ import sys
 # Print iterations progress
 def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 50, fill = '█'):
     """
+    get it from stackoverflow.
     Call in a loop to create terminal progress bar
     @params:
         iteration   - Required  : current iteration (Int)
